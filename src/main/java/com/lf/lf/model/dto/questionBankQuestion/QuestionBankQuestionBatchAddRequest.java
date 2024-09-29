@@ -1,4 +1,4 @@
-package com.lf.lf.model.dto.question;
+package com.lf.lf.model.dto.questionBankQuestion;
 
 import lombok.Data;
 
